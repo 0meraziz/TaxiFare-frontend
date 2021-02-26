@@ -5,6 +5,6 @@
 
 ## GitHub Pages
 
-You can view this web app at `https://0meraziz.github.io/taxi-fare-interface`.
+You can view this web app [here](https://0meraziz.github.io/taxi-fare-interface)
 
 
